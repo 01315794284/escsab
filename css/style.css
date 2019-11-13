@@ -36,7 +36,7 @@
 }
 .switch--shadow + label:before {
   right: 1px;
-  background-color: #f1f1f1;
+  background-color: #fffff;
   border-radius: 60px;
   transition: background 0.4s;
 }
